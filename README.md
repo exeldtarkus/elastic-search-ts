@@ -6,4 +6,5 @@ starting project :
 
 - how to start : 
   - npm install
+  - docker-compose up
   - npm run dev (for development)
