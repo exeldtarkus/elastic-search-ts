@@ -1,3 +1,9 @@
-first commit
+starting project :
 
-- using node 20
+- required : 
+  - install node 20
+  - install docker
+
+- how to start : 
+  - npm install
+  - npm run dev (for development)
